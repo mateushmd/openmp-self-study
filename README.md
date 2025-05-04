@@ -10,6 +10,8 @@ A self-study repository focused on learning parallel computing using the OpenMP 
 4. [Critical sections](./critical-sections)
 5. [Reduce pattern](./reduce)
 
+---
+
 ## Dependencies 
 
 If you are using the `Nix` package manager, you can automatically resolve all dependencies by running the following command from the repository root:
