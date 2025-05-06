@@ -9,6 +9,7 @@ A self-study repository focused on learning parallel computing using the OpenMP 
 3. [Map pattern](./map)
 4. [Critical sections](./critical-sections)
 5. [Reduce pattern](./reduce)
+6. [Scheduling](./schedule)
 
 ---
 
